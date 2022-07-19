@@ -1,9 +1,13 @@
-# Estilos categorizados com PYQGIS #
+# Estilos categorizados com PYQGIS
 
-## Passo a passo das video aulas ##
+* Nessa playlist aprendemos como aplicar estilos simples e categorizados em camadas vetoriais utilizando PYQGIS.
+* Também utilizamos a biblioteca numpy para gerar números aletórios para usarmos como cores.
 
-Video 1 - Vimos sobre como aplicar estilo simples para uma camada vetorial tipo polígono.
+### Video aula 1
+[![video aula](https://img.youtube.com/vi/eKWfXH5g1is/maxresdefault.jpg)](https://youtu.be/eKWfXH5g1is)
 
-Video 2 - Fizemos a iteração sobre os valores unicos do campo desejado e aplicamos o estilo categorizado.
+### Video aula 2
+[![video aula](https://img.youtube.com/vi/Y1SrCc7pz2o/maxresdefault.jpg)](https://youtu.be/Y1SrCc7pz2o)
 
-Video 3 - Utilizamos numpy para gerar cores RGB aleatórias e aplica-los à nossa camada.
+### Video aula 3
+[![video aula](https://img.youtube.com/vi/4wQ4ElBNZ00/maxresdefault.jpg)](https://youtu.be/4wQ4ElBNZ00)
